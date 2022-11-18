@@ -4,3 +4,6 @@
 [submodule "lib/solmate"]
 	path = lib/solmate
 	url = https://github.com/transmissions11/solmate
+[submodule "lib/solidity-linked-list"]
+	path = lib/solidity-linked-list
+	url = https://github.com/vittominacori/solidity-linked-list
